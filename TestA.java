@@ -7,5 +7,6 @@ public class TestA{
 	}
 
 	public static void sayByeBye(){
+		System.out.println("Edit from master!");
 	}
 }

@@ -4,4 +4,7 @@ public class TestA{
 		//Edit from release branch
 		System.out.println("Edit from release branch!");
 	}
+
+	public static void sayHello(){
+	}
 }

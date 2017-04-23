@@ -6,5 +6,6 @@ public class TestA{
 	}
 
 	public static void sayHello(){
+		System.out.println("Edit From Release!");
 	}
 }
